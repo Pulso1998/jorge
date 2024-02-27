@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+.morado {
+    background-color: purple;
+    height: 10vh;
+}
+.amarillo {
+    background-color: yellow;
+    height: 80vh;
+}
+.azul {
+    background-color: blue;
+    height: 80vh;
+}
+.rojo {
+    background-color: red;
+    height: 80vh;
+}
